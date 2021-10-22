@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="chengdabing@114.212.117.167:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chengdabing/code/FOSN_server4" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chengdabing@114.212.120.186:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chengdabing/code/FAST_V1_server3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chengdabing@114.212.120.186:22 (8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chengdabing/code/FAST_V1_server3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chengdabing@114.212.124.89:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chengdabing/code/FAST_V1_server1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chengdabing@114.212.125.106:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chengdabing/code/FOSN_server2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
